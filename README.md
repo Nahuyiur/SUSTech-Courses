@@ -3,15 +3,15 @@ Welcome to my personal course projects portfolio! Here you'll find repositories 
 
 ## 🎓 Computer Science Courses
 
-- [CS211 - Digital Logic](https://github.com/Nahuyiu/CS211-Digital-Logic)
-- [CS219 - Advanced Programming](https://github.com/Nahuyiu/CS219-Advanced-Programming)
-- [CS217 - Data Structures and Algorithm Analysis](https://github.com/Nahuyiu/CS217-Data-Structures-and-Algorithm-Analysis)
-- [CS215 - Discrete Math](https://github.com/Nahuyiu/CS215-Discrete-Math)
-- [CS202 - Computer Organization](https://github.com/Nahuyiu/CS202-Computer-Organization)
-- [CS307 - Principles of Database Systems Project3 - OpenGauss Test](https://github.com/Nahuyiu/CS307-Principles-of-Database-Systems-Project3-OpenGauss_Test)
-- [CS307 - Principles of Database Systems Project1 - Database Efficiency Comparison](https://github.com/Nahuyiu/CS307-Principles-of-Database-Systems-Project1-Database-Efficiency-Comparison)
-- [CS310 - Natural Language Processing](https://github.com/Nahuyiu/CS310-Natural-Language-Processing)
-- [CS109 - Introduction to Computer Programming](https://github.com/Nahuyiu/CS109-Introduction-to-Computer-Programming)
+- [CS211 - Digital Logic](https://github.com/Nahuyiur/CS211-Digital-Logic)
+- [CS219 - Advanced Programming](https://github.com/Nahuyiur/CS219-Advanced-Programming)
+- [CS217 - Data Structures and Algorithm Analysis](https://github.com/Nahuyiur/CS217-Data-Structures-and-Algorithm-Analysis)
+- [CS215 - Discrete Math](https://github.com/Nahuyiur/CS215-Discrete-Math)
+- [CS202 - Computer Organization](https://github.com/Nahuyiur/CS202-Computer-Organization)
+- [CS307 - Principles of Database Systems Project3 - OpenGauss Test](https://github.com/Nahuyiur/CS307-Principles-of-Database-Systems-Project3-OpenGauss_Test)
+- [CS307 - Principles of Database Systems Project1 - Database Efficiency Comparison](https://github.com/Nahuyiur/CS307-Principles-of-Database-Systems-Project1-Database-Efficiency-Comparison)
+- [CS310 - Natural Language Processing](https://github.com/Nahuyiur/CS310-Natural-Language-Processing)
+- [CS109 - Introduction to Computer Programming](https://github.com/Nahuyiur/CS109-Introduction-to-Computer-Programming)
 
 
 ## 🧑‍💻 About Me
